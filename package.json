@@ -1,0 +1,20 @@
+﻿{
+  "name": "monthend-report-demo",
+  "version": "1.0.0",
+  "description": "Turns messy accounting CSV exports into a clean month-end Excel workbook and one-page PDF. Synthetic data only.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node src/generate.js",
+    "report": "node src/run.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "pdfkit": "^0.21.0"
+  }
+}

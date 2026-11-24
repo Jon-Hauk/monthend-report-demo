@@ -1,0 +1,31 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Tests (cleaner reconciles to the cent against the source of truth)
+        run: npm test
+      - name: Sample data is reproducible from its seeds
+        run: |
+          npm run generate
+          git diff --exit-code -- data/
+      - name: Build month-end workbook and PDF
+        run: npm run report
+      - uses: actions/upload-artifact@v4
+        with:
+          name: monthend-report
+          path: output/

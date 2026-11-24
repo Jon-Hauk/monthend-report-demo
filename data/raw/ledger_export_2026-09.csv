@@ -1,0 +1,64 @@
+Txn ID,Date,Vendor,Department,Category,Amount,Memo
+TXN-202609-0001, 2026/09/01 ,RIDGELINE PROPERTY MGMT,Administration,Rent,"$14,500.00","Office lease, Unit 4"
+TXN-202609-0002, 2026/09/02 ,Printhouse 9 ,Admin,Marketing,"$1,340.22",
+TXN-202609-0003,2026-09-02,Prairie Air,operations ,Travel,"$1,355.89","Monthly, see PO"
+TXN-202609-0004, 2026/09/04 ,Ledgerly,it,software,761.28,"Q4 work, phase 2"
+TXN-202609-0005,4-Sep-2026,signal ad co,I.T.,Marketing,2111.91,
+TXN-202609-0006,2026-09-07,Cloudpad Inc,operations ,Software,600.63,"Q4 work, phase 2"
+TXN-202609-0007,2026-09-08,Printhouse 9,Ops,Marketing,"$2,656.51","Q4 work, phase 2"
+TXN-202609-0008, 2026/09/09 ,Paperhaus,Sales,Office Supplies,338.77,Invoice 6647
+TXN-202609-0009,2026-09-09,Paperhaus,sales,Office Supplies ,$244.09,
+TXN-202609-0010, 2026/09/09 ,ledgerly,IT,software,(227.53),Refund / credit note
+TXN-202609-0011,2026-09-10,Bowriver Water,admin,Utilities,441.56,Invoice 9779
+TXN-202609-0012,11-Sep-2026,CAB & GO,it,Travel,528.34,Invoice 1471
+TXN-202609-0013, 2026/09/11 ,Desk Depot ,operations ,Office Supplies,136.03,
+TXN-202609-0014,09/12/2026,DESK DEPOT,Admin,Office Supplies,96.78,Invoice 8894
+TXN-202609-0015,2026-09-14,Cloudpad Inc,Admin,Software,891.18,
+TXN-202609-0016,2026-09-14,Tasklane ,IT,SOFTWARE,455.71,Invoice 3728
+TXN-202609-0017,2026-09-14,Signal Ad Co,admin,Marketing ,"$1,870.45",Invoice 8953
+TXN-202609-0018,14-Sep-2026,Desk Depot,Admin,OFFICE SUPPLIES,$403.65,"Q4 work, phase 2"
+TXN-202609-0019,14-Sep-2026,Paperhaus ,Sales,OFFICE SUPPLIES,-$265.81,Refund / credit note
+TXN-202609-0020, 2026/09/15 ,payroll run,operations ,Payroll ,"$48,880.79",Semi-monthly payroll 1 of 2
+,,,,,,
+TXN-202609-0021,15-Sep-2026,Payroll Run ,Sales,PAYROLL,32074.07,Semi-monthly payroll 1 of 2
+TXN-202609-0022,2026-09-15,Payroll Run,admin,Payroll,"$22,428.05",Semi-monthly payroll 1 of 2
+TXN-202609-0023,09/15/2026,Payroll Run,it,Payroll,27141.14,Semi-monthly payroll 1 of 2
+TXN-202609-0024,2026-09-15,Paperhaus ,OPS,Office Supplies,$28.47,
+TXN-202609-0025,2026-09-16,BOLT ELECTRICAL,it,contractors,1667.77,
+TXN-202609-0026,09/17/2026,BOLT ELECTRICAL,Sales,Contractors,"$1,472.39",
+TXN-202609-0027,17-Sep-2026,Tasklane,I.T.,Software,682.18,"Monthly, see PO"
+TXN-202609-0028,2026-09-17,tasklane,I.T.,Software,815.98,
+TXN-202609-0029,2026-09-17,desk depot,sales,Office Supplies,(269.28),Refund / credit note
+Txn ID,Date,Vendor,Department,Category,Amount,Memo
+TXN-202609-9001,2026-09-12,Desk Depot,Admin,Office Supplies,,Amount pending
+TXN-202609-0030,09/18/2026,Prairie Air ,I.T.,Travel,696.02,
+TXN-202609-0031,09/18/2026,Desk Depot,sales,Office Supplies,47.92,"Q4 work, phase 2"
+TXN-202609-0032,09/19/2026,Bolt Electrical ,Administration,Contractors ,"$3,488.27",
+TXN-202609-0033,2026-09-19,paperhaus,admin,Office Supplies ,$212.12,Invoice 3976
+TXN-202609-0034,2026-09-20,Cab & Go ,I.T.,Travel,919.99,"Q4 work, phase 2"
+TXN-202609-0035,2026-09-21,QUILLFIELD DESIGN,Admin,CONTRACTORS,"$1,075.22","Monthly, see PO"
+TXN-202609-0036,2026-09-21,Tasklane,I.T.,Software ,$63.59,Invoice 4697
+TXN-202609-0037,09/21/2026,Cloudpad Inc ,I.T.,software,598.44,"Monthly, see PO"
+TXN-202609-0038,2026-09-21,Paperhaus,SALES ,Office Supplies,285.96,
+TXN-202609-0039, 2026/09/23 ,K. Mercer Consulting,Operations,contractors,"$3,563.75",Invoice 2289
+TXN-202609-0040, 2026/09/23 ,Printhouse 9,SALES ,MARKETING,447.60,"Q4 work, phase 2"
+TXN-202609-0041,09/23/2026,Foothills Hotel,Sales,Travel ,1198.46,"Monthly, see PO"
+TXN-202609-0042,24-Sep-2026,Quillfield Design ,Sales,contractors,3213.77,"Q4 work, phase 2"
+TXN-202609-0043,09/24/2026,Cloudpad Inc,it,Software,646.27,"Monthly, see PO"
+TXN-202609-9002,31/31/2026,Prairie Air,Sales,Travel,412.00,Date garbled in export
+TXN-202609-0044,09/24/2026,Desk Depot ,Sales,Office Supplies,$158.84,
+TXN-202609-0045,2026-09-25,K. Mercer Consulting,IT,Contractors,1456.12,
+TXN-202609-0046,25-Sep-2026,Tasklane,Operations,Software,$231.24,
+TXN-202609-0047,2026-09-25,Foothills Hotel,Operations,Travel,1218.73,Invoice 3303
+TXN-202609-0048,25-Sep-2026,Cab & Go,operations ,TRAVEL,1037.84,
+TXN-202609-0049,09/26/2026,Quillfield Design,Ops,Contractors ,3718.29,"Q4 work, phase 2"
+TXN-202609-0050,09/26/2026,Ledgerly,IT,Software,176.55,
+TXN-202609-0051,09/26/2026,Signal Ad Co,SALES ,Marketing,959.24,Invoice 8362
+TXN-202609-0052,2026-09-26,CHINOOK POWER,Ops,Utilities,$883.22,"Q4 work, phase 2"
+TXN-202609-0053,09/27/2026,Foothills Hotel,admin,Travel,1382.76,
+TXN-202609-0054, 2026/09/30 ,Payroll Run,OPS,Payroll,48512.67,Semi-monthly payroll 2 of 2
+TXN-202609-0055,09/30/2026,Payroll Run,sales,Payroll,31669.66,Semi-monthly payroll 2 of 2
+TXN-202609-0056,09/30/2026,Payroll Run,admin,Payroll ,"$23,218.05",Semi-monthly payroll 2 of 2
+TXN-202609-0057,2026-09-30,Payroll Run,IT,payroll,26925.56,Semi-monthly payroll 2 of 2
+,,,,,,
+TOTAL,,,,,,Exported 57 transactions

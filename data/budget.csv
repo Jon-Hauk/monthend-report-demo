@@ -1,0 +1,59 @@
+Month,Department,Category,Budget
+2026-09,Operations,Payroll,96400.00
+2026-09,Operations,Contractors,3700.00
+2026-09,Operations,Software,500.00
+2026-09,Operations,Marketing,2500.00
+2026-09,Operations,Travel,1600.00
+2026-09,Operations,Utilities,400.00
+2026-09,Operations,Office Supplies,500.00
+2026-09,Sales,Payroll,63000.00
+2026-09,Sales,Contractors,4000.00
+2026-09,Sales,Software,600.00
+2026-09,Sales,Marketing,2200.00
+2026-09,Sales,Travel,1500.00
+2026-09,Sales,Utilities,500.00
+2026-09,Sales,Office Supplies,400.00
+2026-09,Admin,Payroll,45600.00
+2026-09,Admin,Rent,14500.00
+2026-09,Admin,Contractors,3700.00
+2026-09,Admin,Software,600.00
+2026-09,Admin,Marketing,2300.00
+2026-09,Admin,Travel,1500.00
+2026-09,Admin,Utilities,400.00
+2026-09,Admin,Office Supplies,400.00
+2026-09,IT,Payroll,54800.00
+2026-09,IT,Contractors,3700.00
+2026-09,IT,Software,2900.00
+2026-09,IT,Marketing,2600.00
+2026-09,IT,Travel,1500.00
+2026-09,IT,Utilities,400.00
+2026-09,IT,Office Supplies,400.00
+2026-10,Operations,Payroll,96400.00
+2026-10,Operations,Contractors,3500.00
+2026-10,Operations,Software,600.00
+2026-10,Operations,Marketing,2200.00
+2026-10,Operations,Travel,1500.00
+2026-10,Operations,Utilities,500.00
+2026-10,Operations,Office Supplies,400.00
+2026-10,Sales,Payroll,63000.00
+2026-10,Sales,Contractors,3700.00
+2026-10,Sales,Software,600.00
+2026-10,Sales,Marketing,2300.00
+2026-10,Sales,Travel,1600.00
+2026-10,Sales,Utilities,400.00
+2026-10,Sales,Office Supplies,400.00
+2026-10,Admin,Payroll,45600.00
+2026-10,Admin,Rent,14500.00
+2026-10,Admin,Contractors,3900.00
+2026-10,Admin,Software,600.00
+2026-10,Admin,Marketing,2400.00
+2026-10,Admin,Travel,1700.00
+2026-10,Admin,Utilities,400.00
+2026-10,Admin,Office Supplies,400.00
+2026-10,IT,Payroll,54800.00
+2026-10,IT,Contractors,3600.00
+2026-10,IT,Software,2900.00
+2026-10,IT,Marketing,2100.00
+2026-10,IT,Travel,1800.00
+2026-10,IT,Utilities,400.00
+2026-10,IT,Office Supplies,500.00
